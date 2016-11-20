@@ -123,8 +123,3 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
-
-#USB
-persist.service.adb.enable=1                                                    
-persist.service.debuggable=1
-persist.sys.usb.config=mtp,adb
