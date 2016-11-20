@@ -248,10 +248,9 @@ vendor/lib/libqmiservices.so
 vendor/lib/libsmemlog.so
 vendor/lib/libsystem_health_mon.so
 
-# Radio
--app/shutdownlistener/shutdownlistener.apk
--lib/libril.so
+# Radio (from ham)
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+-app/shutdownlistener/shutdownlistener.apk
 bin/netmgrd
 bin/qmuxd
 bin/radish
